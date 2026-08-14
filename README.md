@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=Patelpreet123&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" width="170px"/>
 </p>
 
-<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I am Preet</h1>
+<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I am Maitra</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&center=true&vCenter=true&width=800&lines=3rd+Year+Computer+Science+Student;DSA+and+Problem-Solving;Currently+learning+JavaScript+and+moving+towards+the+MERN+stack;Interested+in+building+real-world+and+interactive+projects" alt="Typing SVG" /></a>
